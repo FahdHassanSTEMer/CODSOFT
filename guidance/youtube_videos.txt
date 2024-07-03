@@ -1,0 +1,20 @@
+Beginner's course:
+link: https://www.youtube.com/watch?v=bmmQA8A-yUA
+description: it will explain some basic concepts and terms for machine learning field.
+
+tutorial for pandas library:
+link: https://www.youtube.com/watch?v=e60ItwlZTKM
+description: it will explain what is Pandas library and what is the usage of it.
+
+NLP beginnig course:
+link: https://www.youtube.com/watch?v=ENLEjGozrio
+description: an quick course that navigates important aspects of Natural Language Processing (NLP)
+
+Pandas complete tutorial:
+link: https://www.youtube.com/watch?v=vmEHCJofslg
+description: this is a great tutorial for exploring different embedded functions in Pandas that can be useful in Machine Learning.
+
+scikit-learn crash course:
+link: https://youtu.be/0B5eIE_1vpU?si=QBDAYwByWGbhoirI
+description: useful crash course for exploring importance and usage of SK-learn library.
+
